@@ -1,0 +1,4 @@
+Infectivity: determines how quickly a disease will spread
+Severity   : indicates how virulent a disease is, which slows cure research but also 
+	     increases disease visibility and humanity's attempts to stop the spread
+Lethality  : simply reflects the mortality rate and potential.
